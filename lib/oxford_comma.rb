@@ -5,5 +5,3 @@ def oxford_comma(array)
     array.join(" and ")
   else array[0..6].join(", ") << ", and #{array[6]}"
 end
-end
-  
