@@ -4,4 +4,3 @@ end
   array=["kiwi", "durian"]
   array.join(", and ")
 end
-end
